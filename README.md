@@ -4,9 +4,6 @@
 
 
 
-![Live Server    ](https://himanshuaswal02.github.io/front-end-page-fast-food-restaurant)
-
-
 
 
 
